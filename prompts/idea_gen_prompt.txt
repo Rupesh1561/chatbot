@@ -1,0 +1,7 @@
+Generate 3 unique ideas for {ideas_for} in the JSON format only: 
+[
+  {{"idea": "<Idea 1>", "relevance": <1-5>, "impact": <1-5>, "feasibility": <1-5>}},
+  {{"idea": "<Idea 2>", "relevance": <1-5>, "impact": <1-5>, "feasibility": <1-5>}},
+  {{"idea": "<Idea 3>", "relevance": <1-5>, "impact": <1-5>, "feasibility": <1-5>}}
+]
+Do not repeat or include the text of this prompt in your response and idea should be shorter in text. Respond strictly in Above JSON format only.

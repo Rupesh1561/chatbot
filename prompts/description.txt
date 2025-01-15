@@ -1,0 +1,8 @@
+Provide a brief details for the given ideas. 
+given json formate: 
+{{ 
+    "idea1":"<give deatils about the idea in short para of 100 words>"
+    "idea2":"<give deatils about the idea in short para of 100 words>"
+}} 
+ideas:[{idea1},{idea2}]
+Respond strictly in JSON format only.   
